@@ -9,7 +9,7 @@
 
 ## We can't introspect them
 
-Well, we can and we can't. `Deprecated` directive is a first class citizen
+### Well, we can and we can't. `Deprecated` directive is a first class citizen
 Directives descriptions are exposed on introspection, custom directives on fields or types etc are not
 
 ---
